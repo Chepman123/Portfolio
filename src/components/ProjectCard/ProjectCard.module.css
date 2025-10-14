@@ -1,7 +1,7 @@
 .div {
   position: relative;
   width: 600px;
-  height: 250px;
+  height: 400px;
   margin: 20px;
   border-radius: 30px;
   overflow: hidden;
@@ -48,6 +48,9 @@
     object-fit: fill;
 }
 @media(max-width:765px){
+  .div {
+  height: 250px;
+  }
   .img{
     height: 150px;
   }
