@@ -28,7 +28,7 @@ export const projects:projectData[]=[
         title:'Dantway',
         description:'A modern website for a dental clinic built with React and TypeScript. The site features automatic data population for clinic information, services, and contact details, ensuring easy content management and real-time updates. The design emphasizes clean aesthetics, responsive layouts, and user-friendly navigation, providing patients with a professional and trustworthy online experience',
         technologies:['https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'],
-        images:['/Dantway/image(10).png','/Dantway/image(18).png','/Dantway/image(19).png'],
+        images:['/DantWay/image(10).png','/DantWay/image(18).png','/DantWay/image(19).png'],
         github:'https://github.com/Chepman123/stomatology-site',
         link:'https://dantway.pl/'
     }
