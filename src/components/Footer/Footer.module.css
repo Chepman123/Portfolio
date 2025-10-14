@@ -1,0 +1,34 @@
+footer{
+    color: white;
+}
+.a{
+    filter: brightness(0) invert(1);
+    color: white;
+    opacity: 0.6;
+    transition: all ease-in-out 0.2s;
+}
+.a:hover{
+    scale: 1.2;
+    opacity: 1;
+}
+.h1{
+    justify-self: center;
+    padding-top: 30px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid white;
+    width: 90%;
+    font-size: 300%;
+    text-align: center;
+}
+.div{
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+}
+@media(max-width:765px){
+    .div{
+        flex-direction: column;
+    }
+}

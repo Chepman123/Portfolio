@@ -1,0 +1,32 @@
+.div{
+    color: white;
+    height: 90px;
+    border-radius: 20px;
+    background-color: rgb(16, 16, 16);
+    width: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all ease-in-out 0.3s;
+}
+.div:hover{
+    background-color: rgb(32, 32, 32);
+    cursor: pointer;
+    scale: 1.2;
+}
+.img{
+    height: 80%;
+}
+.h3{
+    opacity: 0;
+    transition: all ease-in-out 0.3s;
+    position: absolute;
+    margin-top: -130px;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    z-index: 1;
+}
+.div:hover .h3{
+    opacity: 1;
+}

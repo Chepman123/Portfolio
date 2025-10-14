@@ -1,0 +1,78 @@
+nav{
+    background-color: rgb(16, 16, 16);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 600px;
+    opacity: 0;
+    animation: anim ease-in-out 0.75s forwards;
+}
+nav h1{
+    font-size: 400%;
+    margin-bottom: 100px;
+    opacity: 0;
+    transform: translateY(-500%);
+    animation: anim 0.75s ease-in-out forwards;
+    border-bottom: 1px solid white;
+}
+nav p{
+    opacity: 0;
+    transform: translateY(-1000%);
+    animation: anim 0.75s ease-in-out forwards;
+}
+nav a{
+    margin-top: 60px;
+     background-color: brown;
+     padding: 20px;
+     padding-left: 40px;
+     padding-right: 40px;
+     border-radius: 30px;
+    opacity: 0;
+    transform: translateY(-100%);
+    animation: anim 0.75s ease-in-out forwards;
+    color: white;
+    text-decoration: none;
+}
+.skills{
+    width: 100%;
+    background-color: rgb(7, 7, 7);
+    box-shadow: 0px -5px 15px 5px #000000;
+    display: flex;
+    opacity: 0;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transform: translateY(100%);
+    animation: anim ease-in-out forwards 0.75s;
+}
+.skills h1{
+    font-size: 300%;
+    text-align: center;
+    border-bottom: 1px solid white;
+    width: 90%;
+    padding-top: 20px;
+    margin-bottom: 40px;
+    color: white;
+}
+.skills div{
+    margin-bottom: 40px;
+}
+.skillsPart{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+@keyframes anim {
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+@media(max-width:765px){
+    nav{
+        text-align: center;
+    }
+}
