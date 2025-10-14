@@ -19,7 +19,7 @@ export const projects:projectData[]=[
         title:'Game_Studio_WebSite',
         description:'A React and TypeScript-based website for a game studio featuring a modern and dynamic design. The site includes sections for news and projects, with all content automatically fetched and updated from a database or content management system. The project focuses on clean UI/UX, responsive layouts, and smooth animations to present the studio’s games and updates in a professional and engaging way',
         technologies:['https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'],
-        images:['../../public/Game Studio/image(9).png','../../public/Game Studio/image(12).png','../../public/Game Studio/image(13).png','../../public/Game Studio/image(14).png','../../public/Game Studio/image(16).png','../../public/Game Studio/image(17).png'],
+        images:['Game Studio/image(9).png','../../public/Game Studio/image(12).png','../../public/Game Studio/image(13).png','../../public/Game Studio/image(14).png','../../public/Game Studio/image(16).png','../../public/Game Studio/image(17).png'],
         github:'https://github.com/Chepman123/pervomens-website',
         link:'https://pervomens-website-git-main-vlad-shlapak.vercel.app/'
     }
@@ -28,7 +28,7 @@ export const projects:projectData[]=[
         title:'Dantway',
         description:'A modern website for a dental clinic built with React and TypeScript. The site features automatic data population for clinic information, services, and contact details, ensuring easy content management and real-time updates. The design emphasizes clean aesthetics, responsive layouts, and user-friendly navigation, providing patients with a professional and trustworthy online experience',
         technologies:['https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'],
-        images:['../../public/Dantway/image(10).png','../../public/Dantway/image(18).png','../../public/Dantway/image(19).png'],
+        images:['Dantway/image(10).png','public/Dantway/image(18).png','public/Dantway/image(19).png'],
         github:'https://github.com/Chepman123/stomatology-site',
         link:'https://dantway.pl/'
     }
