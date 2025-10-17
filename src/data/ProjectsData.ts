@@ -21,7 +21,7 @@ export const projects:projectData[]=[
         technologies:['https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'],
         images:['/Game Studio/image(9).png','/Game Studio/image(12).png','/Game Studio/image(13).png','/Game Studio/image(14).png','/Game Studio/image(16).png','/Game Studio/image(17).png'],
         github:'https://github.com/Chepman123/pervomens-website',
-        link:'https://pervomens-website-git-main-vlad-shlapak.vercel.app/'
+        link:'https://pervomens-website-git-main-vlad-shlapak.vercel.app?_vercel_share=ONbrWz7fuTOJgaPHhv85ImffnYGSIrJv'
     }
     ,
     {
