@@ -42,5 +42,9 @@ export const skills: skillData[] = [
   {
     title: 'MySQL',
     src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'
+  },
+  {
+    title: 'PostgreSQL',
+    src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'
   }
 ];

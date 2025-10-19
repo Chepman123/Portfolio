@@ -9,11 +9,12 @@
     align-items: center;
     transition: all ease-in-out 0.3s;
     z-index: 2;
+    
 }
 .div:hover{
     background-color: rgb(32, 32, 32);
     cursor: pointer;
-    scale: 1.2;
+
 }
 .img{
     height: 80%;
@@ -26,7 +27,7 @@
     background-color: black;
     padding-left: 10px;
     padding-right: 10px;
-    z-index: 3;
+    
 }
 .div:hover .h3{
     opacity: 1;
