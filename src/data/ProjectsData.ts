@@ -9,7 +9,7 @@ export interface projectData{
 export const projects:projectData[]=[
     {
         title:'Chat',
-        description:'A full-stack chat application built with Node.js, React, and TypeScript. The project includes: User authentication and logging system. Message sending and storage in a database. Editing and deleting messages functionality. Automated chat creation in the database when a new user registers. The app provides a modern, scalable, and secure real-time messaging experience designed for both personal and team communication',
+        description:'A full-stack chat application built with Node.js, React, and TypeScript. The project includes: User authentication and logging system. Message sending and storage in a database. Editing and deleting messages functionality. Automated chat creation in the database when a new user registers. The app provides a modern, scalable',
         technologies:['https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'],
         images:['/ChatImages/image(8).png','/ChatImages/image(20).png'],
         github:'https://github.com/Chepman123/chat_project',
@@ -35,7 +35,7 @@ export const projects:projectData[]=[
     ,
     {
         title:'TwitterCopy',
-        description:'A modern website for a dental clinic built with React, TypeScript, and Node.js. The site features automatic data population for clinic information, services, and contact details, ensuring easy content management and real-time updates. It also includes an online booking system, allowing patients to schedule appointments directly through the website. The design emphasizes clean aesthetics, responsive layouts, and user-friendly navigation, providing patients with a professional and trustworthy online experience',
+        description:'A fullstack twiiter copy. It includes login system, posts, comments, profiles, followings and search feature',
         technologies:['https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'],
         images:['/TwitterCopy/image (38).png','/TwitterCopy/image (39).png','/TwitterCopy/image (40).png','/TwitterCopy/image (41).png'],
         github:'https://github.com/Chepman123/twitter-copy',

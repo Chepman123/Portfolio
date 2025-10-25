@@ -1,6 +1,5 @@
 import classes from './Skill.module.css';
 import { skills } from '../../data/SkillsData';
-import { memo } from 'react';
 
 export default function Skill({id}:{id:number}){
     return <div className={classes.div}>
