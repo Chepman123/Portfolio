@@ -32,4 +32,13 @@ export const projects:projectData[]=[
         github:'https://github.com/Chepman123/stomatology-site',
         link:'https://dantway.pl/'
     }
+    ,
+    {
+        title:'TwitterCopy',
+        description:'A modern website for a dental clinic built with React, TypeScript, and Node.js. The site features automatic data population for clinic information, services, and contact details, ensuring easy content management and real-time updates. It also includes an online booking system, allowing patients to schedule appointments directly through the website. The design emphasizes clean aesthetics, responsive layouts, and user-friendly navigation, providing patients with a professional and trustworthy online experience',
+        technologies:['https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'],
+        images:['/TwitterCopy/image (38).png','/TwitterCopy/image (39).png','/TwitterCopy/image (40).png','/TwitterCopy/image (41).png'],
+        github:'https://github.com/Chepman123/twitter-copy',
+        link:''
+    }
 ]
