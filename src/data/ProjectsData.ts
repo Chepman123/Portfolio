@@ -46,7 +46,7 @@ export const projects:projectData[]=[
         title:'Onlinelibrary',
         description:'This project is a full-stack online library platform that allows users to read, share, and discuss stories. Users can register, create their own works, leave reviews, like or dislike books, and explore titles by genres or filters. The platform includes an advanced search system with multiple filters, a rating and feedback mechanism, and a clean, user-friendly interface. The backend is built with Node.js, Express, and MongoDB, featuring structured TypeScript interfaces for better scalability and code safety. The project also implements user interaction features such as likes, dislikes, and comments, as well as genre-based categorization for easier content discovery. It’s designed with a modular architecture separating services, controllers, and interfaces, following modern full-stack development principles.',
         technologies:['https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg','https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'],
-        images:['/Onlinelibrary/1.jpg','/Onlinelibrary/1.jpg','/Onlinelibrary/1.jpg'],
+        images:['/Onlinelibrary/1.jpg','/Onlinelibrary/2.jpg','/Onlinelibrary/3.jpg','/Onlinelibrary/4.jpg'],
         github:'https://github.com/Chepman123/LibraryProject',
         link:''
     }
